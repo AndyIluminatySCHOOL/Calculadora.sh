@@ -1,5 +1,11 @@
 #!/bin/bash
 
+echo -e "\e[31m╔══╗╔══╗╔═╗╔═╦╗╔╗─╔╗╔═╗╔═╦╗╔══╗╔══╗╔═╗╔══╗
+║╔╗║╚║║╝║╦╝║║║║║╚╦╝║║╦╝║║║║╚║║╝╚╗╗║║║║║══╣
+║╔╗║╔║║╗║╩╗║║║║╚╗║╔╝║╩╗║║║║╔║║╗╔╩╝║║║║╠══║
+╚══╝╚══╝╚═╝╚╩═╝─╚═╝─╚═╝╚╩═╝╚══╝╚══╝╚═╝╚══╝\e[0m"
+
+echo -e "\e[31mCalculadora multiusos\e[0m"
 echo "Calculadora básica"
 echo "Ingresa el primer número:"
 read num1
